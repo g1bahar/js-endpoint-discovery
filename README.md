@@ -5,7 +5,7 @@ Web sitelerindeki JavaScript dosyalarını analiz ederek API endpoint'lerini ke�
 ## Kurulum
 
 ```bash
-git clone https://github.com/G1BAHAR/js-endpoint-discovery.git
+git clone https://github.com/g1bahar/js-endpoint-discovery.git
 cd js-endpoint-discovery
 npm install
 ```
@@ -74,9 +74,6 @@ node index.js --init-config
 - Node.js >= 12.0.0
 - Windows, macOS, Linux
 
-## Lisans
-
-ISC License
 
 ## Yazar
 

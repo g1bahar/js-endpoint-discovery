@@ -2,6 +2,9 @@
 
 Web sitelerindeki JavaScript dosyalarını analiz ederek API endpoint'lerini keşfeden araç.
 
+#Bu araç AltaySec Atölyesi kapsamında kullanılmaktadır:  
+https://atolye.altaysec.com.tr
+
 ## Kurulum
 
 ```bash

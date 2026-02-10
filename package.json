@@ -1,0 +1,55 @@
+{
+  "name": "js-endpoint-discovery",
+  "version": "1.0.0",
+  "description": "Web sitelerindeki JavaScript dosyalarını analiz ederek API endpoint'lerini keşfeden güçlü bir araç",
+  "main": "index.js",
+  "bin": {
+    "js-endpoint-discovery": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "endpoint",
+    "discovery",
+    "api",
+    "security",
+    "javascript",
+    "scanner",
+    "reconnaissance",
+    "pentesting",
+    "web-security"
+  ],
+  "author": "Gülbahar DİRİK",
+  "license": "ISC",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/G1BAHAR/js-endpoint-discovery.git"
+  },
+  "bugs": {
+    "url": "https://github.com/G1BAHAR/js-endpoint-discovery/issues"
+  },
+  "homepage": "https://github.com/G1BAHAR/js-endpoint-discovery#readme",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "os": [
+    "win32",
+    "darwin",
+    "linux"
+  ],
+  "cpu": [
+    "x64",
+    "arm64"
+  ],
+  "dependencies": {
+    "acorn": "^8.15.0",
+    "acorn-walk": "^8.3.4",
+    "axios": "^1.13.5",
+    "cheerio": "^1.2.0",
+    "chalk": "^4.1.2",
+    "cli-progress": "^3.12.0"
+  }
+}

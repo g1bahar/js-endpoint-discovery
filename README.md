@@ -8,6 +8,7 @@ Web sitelerindeki JavaScript dosyalarını analiz ederek API endpoint'lerini ke�
 git clone https://github.com/g1bahar/js-endpoint-discovery.git
 cd js-endpoint-discovery
 npm install
+npm install cli-progress
 ```
 
 ## Kullanım
